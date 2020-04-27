@@ -1,0 +1,50 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 850725354,
+      "message": {
+        "message_id": 1,
+        "from": {
+          "id": 845274487,
+          "is_bot": false,
+          "first_name": "Темир",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 845274487,
+          "first_name": "Темир",
+          "type": "private"
+        },
+        "date": 1587818868,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 850725355,
+      "message": {
+        "message_id": 3,
+        "from": {
+          "id": 845274487,
+          "is_bot": false,
+          "first_name": "Темир",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 845274487,
+          "first_name": "Темир",
+          "type": "private"
+        },
+        "date": 1587820408,
+        "text": "привет"
+      }
+    }
+  ]
+}
